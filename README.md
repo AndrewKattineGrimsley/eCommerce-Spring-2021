@@ -1,1 +1,1 @@
-# Repository of Notebooks and Tools for E-Commerce Spring 2021
+# Notebooks and Tools for E-Commerce Spring 2021
